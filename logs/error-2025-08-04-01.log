@@ -1,0 +1,7 @@
+{"level":"error","message":"Google strategy error: User validation failed: fullName: Path `fullName` is required.","timestamp":"2025-08-04T08:11:18.534Z"}
+{"level":"error","message":"Auth middleware error: getaddrinfo ENOTFOUND ac-uxax9vy-shard-00-01.pgyq63a.mongodb.net, Token: Bearer eyJhbGciOiJIU...","timestamp":"2025-08-04T08:14:45.592Z"}
+{"level":"error","message":"Cloudinary upload error: Invalid cloud_name trustchain_ventures","timestamp":"2025-08-04T08:29:05.550Z"}
+{"level":"error","message":"Update profile error: Invalid cloud_name trustchain_ventures, UserId: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:29:05.552Z"}
+{"level":"error","message":"Google strategy error: User validation failed: fullName: Path `fullName` is required.","timestamp":"2025-08-04T08:32:28.295Z"}
+{"level":"error","message":"OTP verification error: User validation failed: fullName: Path `fullName` is required.","timestamp":"2025-08-04T08:33:49.687Z"}
+{"level":"error","message":"OTP verification error: invalid expiresIn option for string payload","timestamp":"2025-08-04T08:38:09.649Z"}

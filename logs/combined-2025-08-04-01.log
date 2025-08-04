@@ -1,0 +1,95 @@
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T08:04:07.702Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T08:04:20.428Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T08:04:38.365Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T08:05:35.821Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T08:06:10.700Z"}
+{"level":"info","message":"Auth header: undefined","timestamp":"2025-08-04T08:06:24.055Z"}
+{"level":"warn","message":"No token provided in Authorization header","timestamp":"2025-08-04T08:06:24.057Z"}
+{"level":"info","message":"Token generated for user: dasjoynakul@gmail.com, Token: eyJhbGciOiJIUzI1NiIs...","timestamp":"2025-08-04T08:06:59.167Z"}
+{"level":"info","message":"Login successful for user: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:06:59.168Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk0ODE5LCJleHAiOjE3NTQ4OTk2MTl9.X__ursX-hmgPsl6NEVuyqtkGuLlFV14LPNxQfDl0NCI","timestamp":"2025-08-04T08:07:10.502Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:07:10.503Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754294819,\"exp\":1754899619}","timestamp":"2025-08-04T08:07:10.506Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:07:10.568Z"}
+{"level":"info","message":"User profile fetched for id: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:07:10.631Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk0ODE5LCJleHAiOjE3NTQ4OTk2MTl9.X__ursX-hmgPsl6NEVuyqtkGuLlFV14LPNxQfDl0NCI","timestamp":"2025-08-04T08:07:10.636Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:07:10.637Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754294819,\"exp\":1754899619}","timestamp":"2025-08-04T08:07:10.640Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:07:10.691Z"}
+{"level":"info","message":"User profile fetched for id: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:07:10.758Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk0ODE5LCJleHAiOjE3NTQ4OTk2MTl9.X__ursX-hmgPsl6NEVuyqtkGuLlFV14LPNxQfDl0NCI","timestamp":"2025-08-04T08:07:54.124Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:07:54.125Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754294819,\"exp\":1754899619}","timestamp":"2025-08-04T08:07:54.126Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:07:54.191Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk0ODE5LCJleHAiOjE3NTQ4OTk2MTl9.X__ursX-hmgPsl6NEVuyqtkGuLlFV14LPNxQfDl0NCI","timestamp":"2025-08-04T08:08:55.664Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:08:55.664Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754294819,\"exp\":1754899619}","timestamp":"2025-08-04T08:08:55.666Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:08:55.727Z"}
+{"level":"info","message":"User profile fetched for id: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:08:55.799Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk0ODE5LCJleHAiOjE3NTQ4OTk2MTl9.X__ursX-hmgPsl6NEVuyqtkGuLlFV14LPNxQfDl0NCI","timestamp":"2025-08-04T08:08:55.803Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:08:55.804Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754294819,\"exp\":1754899619}","timestamp":"2025-08-04T08:08:55.805Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:08:55.864Z"}
+{"level":"info","message":"User profile fetched for id: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:08:55.942Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T08:10:09.684Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk0ODE5LCJleHAiOjE3NTQ4OTk2MTl9.X__ursX-hmgPsl6NEVuyqtkGuLlFV14LPNxQfDl0NCI","timestamp":"2025-08-04T08:10:21.038Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:10:21.040Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754294819,\"exp\":1754899619}","timestamp":"2025-08-04T08:10:21.046Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:10:22.846Z"}
+{"level":"info","message":"User profile fetched for id: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:10:22.909Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk0ODE5LCJleHAiOjE3NTQ4OTk2MTl9.X__ursX-hmgPsl6NEVuyqtkGuLlFV14LPNxQfDl0NCI","timestamp":"2025-08-04T08:10:22.914Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:10:22.916Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754294819,\"exp\":1754899619}","timestamp":"2025-08-04T08:10:22.918Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:10:22.968Z"}
+{"level":"info","message":"User profile fetched for id: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:10:23.020Z"}
+{"level":"error","message":"Google strategy error: User validation failed: fullName: Path `fullName` is required.","timestamp":"2025-08-04T08:11:18.534Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T08:13:00.896Z"}
+{"level":"info","message":"Token generated for user: dasjoynakul@gmail.com, Token: eyJhbGciOiJIUzI1NiIs...","timestamp":"2025-08-04T08:13:07.500Z"}
+{"level":"info","message":"Login successful for user: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:13:07.501Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk1MTg3LCJleHAiOjE3NTQ4OTk5ODd9.AxdARqDdUGqnTMiLy9S7NTwHgJYsT13tZNBPxKsNPAg","timestamp":"2025-08-04T08:13:16.375Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:13:16.375Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754295187,\"exp\":1754899987}","timestamp":"2025-08-04T08:13:16.378Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:13:25.861Z"}
+{"level":"info","message":"User profile fetched for id: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:13:25.932Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk1MTg3LCJleHAiOjE3NTQ4OTk5ODd9.AxdARqDdUGqnTMiLy9S7NTwHgJYsT13tZNBPxKsNPAg","timestamp":"2025-08-04T08:13:25.938Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:13:25.939Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754295187,\"exp\":1754899987}","timestamp":"2025-08-04T08:13:25.940Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:13:25.993Z"}
+{"level":"info","message":"User profile fetched for id: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:13:26.045Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk1MTg3LCJleHAiOjE3NTQ4OTk5ODd9.AxdARqDdUGqnTMiLy9S7NTwHgJYsT13tZNBPxKsNPAg","timestamp":"2025-08-04T08:13:56.377Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:13:56.378Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754295187,\"exp\":1754899987}","timestamp":"2025-08-04T08:13:56.379Z"}
+{"level":"error","message":"Auth middleware error: getaddrinfo ENOTFOUND ac-uxax9vy-shard-00-01.pgyq63a.mongodb.net, Token: Bearer eyJhbGciOiJIU...","timestamp":"2025-08-04T08:14:45.592Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T08:24:55.000Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T08:25:47.212Z"}
+{"level":"info","message":"Token generated for user: dasjoynakul@gmail.com, Token: eyJhbGciOiJIUzI1NiIs...","timestamp":"2025-08-04T08:26:58.011Z"}
+{"level":"info","message":"Login successful for user: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:26:58.013Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk2MDE4LCJleHAiOjE3NTQ5MDA4MTh9.NzUHcxocNcKw6v0YTNTgFO8n-OLCY2aRIriFPvh23aY","timestamp":"2025-08-04T08:27:04.117Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:27:04.119Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754296018,\"exp\":1754900818}","timestamp":"2025-08-04T08:27:04.122Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:27:04.202Z"}
+{"level":"info","message":"User profile fetched for id: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:27:04.261Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk2MDE4LCJleHAiOjE3NTQ5MDA4MTh9.NzUHcxocNcKw6v0YTNTgFO8n-OLCY2aRIriFPvh23aY","timestamp":"2025-08-04T08:27:04.266Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:27:04.267Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754296018,\"exp\":1754900818}","timestamp":"2025-08-04T08:27:04.270Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:27:04.320Z"}
+{"level":"info","message":"User profile fetched for id: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:27:04.372Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk2MDE4LCJleHAiOjE3NTQ5MDA4MTh9.NzUHcxocNcKw6v0YTNTgFO8n-OLCY2aRIriFPvh23aY","timestamp":"2025-08-04T08:27:22.864Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:27:22.865Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754296018,\"exp\":1754900818}","timestamp":"2025-08-04T08:27:22.866Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:27:24.163Z"}
+{"level":"info","message":"Updating profile for userId: 688f3bba93299da0d755e837, Data: {\"fullName\":\"juniorntr\",\"mobile\":\"98767656577\",\"street\":\"alsdkfjlasd\",\"state\":\"aksdjfnkasdjnk\",\"country\":\"kasdnfkasnd\",\"postalCode\":\"876576\"}","timestamp":"2025-08-04T08:27:24.170Z"}
+{"level":"info","message":"Updating user in DB: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:27:24.171Z"}
+{"level":"info","message":"Profile updated successfully for userId: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:27:25.365Z"}
+{"level":"info","message":"Auth header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4OGYzYmJhOTMyOTlkYTBkNzU1ZTgzNyIsImVtYWlsIjoiZGFzam95bmFrdWxAZ21haWwuY29tIiwiaWF0IjoxNzU0Mjk2MDE4LCJleHAiOjE3NTQ5MDA4MTh9.NzUHcxocNcKw6v0YTNTgFO8n-OLCY2aRIriFPvh23aY","timestamp":"2025-08-04T08:28:37.639Z"}
+{"level":"info","message":"Verifying token: eyJhbGciOi...","timestamp":"2025-08-04T08:28:37.640Z"}
+{"level":"info","message":"Decoded token: {\"id\":\"688f3bba93299da0d755e837\",\"email\":\"dasjoynakul@gmail.com\",\"iat\":1754296018,\"exp\":1754900818}","timestamp":"2025-08-04T08:28:37.641Z"}
+{"level":"info","message":"User authenticated: dasjoynakul@gmail.com","timestamp":"2025-08-04T08:29:02.115Z"}
+{"level":"info","message":"Updating profile for userId: 688f3bba93299da0d755e837, Data: {\"fullName\":\"juniorntr\",\"mobile\":\"98767656577\",\"street\":\"alsdkfjlasd\",\"state\":\"aksdjfnkasdjnk\",\"country\":\"kasdnfkasnd\",\"postalCode\":\"876576\"}","timestamp":"2025-08-04T08:29:02.119Z"}
+{"level":"info","message":"Uploading profile picture for userId: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:29:02.120Z"}
+{"level":"error","message":"Cloudinary upload error: Invalid cloud_name trustchain_ventures","timestamp":"2025-08-04T08:29:05.550Z"}
+{"level":"error","message":"Update profile error: Invalid cloud_name trustchain_ventures, UserId: 688f3bba93299da0d755e837","timestamp":"2025-08-04T08:29:05.552Z"}
+{"level":"error","message":"Google strategy error: User validation failed: fullName: Path `fullName` is required.","timestamp":"2025-08-04T08:32:28.295Z"}
+{"level":"error","message":"OTP verification error: User validation failed: fullName: Path `fullName` is required.","timestamp":"2025-08-04T08:33:49.687Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T08:36:54.590Z"}
+{"level":"error","message":"OTP verification error: invalid expiresIn option for string payload","timestamp":"2025-08-04T08:38:09.649Z"}

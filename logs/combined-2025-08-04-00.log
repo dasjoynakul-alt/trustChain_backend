@@ -1,0 +1,8 @@
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T07:12:56.563Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T07:25:26.315Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T07:26:12.980Z"}
+{"level":"error","message":"Google strategy error: User validation failed: fullName: Path `fullName` is required.","timestamp":"2025-08-04T07:28:20.257Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T07:31:11.075Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-04T07:43:02.412Z"}
+{"level":"error","message":"Get user error: User not found","timestamp":"2025-08-04T07:48:08.257Z"}
+{"level":"error","message":"Get user error: User not found","timestamp":"2025-08-04T07:48:08.372Z"}

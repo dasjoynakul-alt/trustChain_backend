@@ -1,0 +1,5 @@
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-03T04:11:27.179Z"}
+{"level":"error","message":"Send email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-76bd78875cesm6287907b3a.15 - gsmtp","timestamp":"2025-08-03T04:12:49.524Z"}
+{"level":"error","message":"Email sending failed: Failed to send email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-76bd78875cesm6287907b3a.15 - gsmtp","timestamp":"2025-08-03T04:12:49.526Z"}
+{"level":"error","message":"Login error: No user found","timestamp":"2025-08-03T04:14:05.392Z"}
+{"level":"info","message":"Server is running on port: 5050","timestamp":"2025-08-03T04:18:15.336Z"}

@@ -1,0 +1,2 @@
+{"level":"info","message":"Google user data received: {\"_id\":\"68792e46dcf27cca1e4285ad\",\"name\":\"eshita sharma\",\"email\":\"eshitasharma648@gmail.com\",\"password\":\"$2b$10$9fTFHoU8InHMNvkRPHIwLOXIwn5/0ndYqWJJP27R1C4/G5MtPG9uG\",\"isVerified\":true,\"__v\":0,\"googleId\":\"116132431150236219917\"}","timestamp":"2025-07-17T20:11:42.821Z"}
+{"level":"info","message":"Google auth successful: eshitasharma648@gmail.com","timestamp":"2025-07-17T20:11:43.112Z"}

@@ -1,0 +1,3 @@
+{"level":"error","message":"Google strategy error: User validation failed: fullName: Path `fullName` is required.","timestamp":"2025-08-04T07:28:20.257Z"}
+{"level":"error","message":"Get user error: User not found","timestamp":"2025-08-04T07:48:08.257Z"}
+{"level":"error","message":"Get user error: User not found","timestamp":"2025-08-04T07:48:08.372Z"}
